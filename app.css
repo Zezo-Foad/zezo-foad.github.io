@@ -18,6 +18,9 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 27px;
 }
 
 /* Image animation */
@@ -35,8 +38,6 @@ body {
   max-width: 90%;
   text-align: center;
   font-size: clamp(20px, 4vw, 32px);
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
   margin: 1rem auto;
 }
 
