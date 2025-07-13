@@ -47,7 +47,7 @@ if(document.querySelector('p[class="ghub-txt special"]').style.display=="block")
 	});
 	});
 	document.querySelector('p[class="ghub-txt special"]').addEventListener("click",()=>{
-		window.open("https://github.com/Zyad-Mahmoud","_blank");
+		window.open("https://github.com/Zezo-Foad/","_blank");
 	});
 	document.querySelector('p[class="wa-txt special"]').addEventListener("click",()=>{
 		window.open("https://wa.me/201116678396?text=Hi%20Zyad%2C%20I%20saw%20your%20portfolio%20and%20wanted%20to%20Talk!","_blank");
